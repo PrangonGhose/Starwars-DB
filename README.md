@@ -54,7 +54,8 @@ To clone the repository in local environment try following steps.
 ### Prerequisites
 
 - [x] A web browser like Google Chrome.
-- [x] A code editor like Visual Studio Code with Git and Node.js.
+- [x] A code editor like Visual Studio Code with Git.
+- [x] `Python3`, `NumPy`, `Pandas`, and `SQLlite3`.
 
 You can check if Git is installed by running the following command in the terminal.
 ```
