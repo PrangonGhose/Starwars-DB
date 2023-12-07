@@ -62,7 +62,7 @@ You can check if Git is installed by running the following command in the termin
 $ git --version
 ```
 
-Likewise for Node.js and npm for package installation.
+Likewise for `Python` and `pip` for package installation.
 ```
 $ python --version
 
